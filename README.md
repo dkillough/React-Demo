@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-node.js + npm or yarn
+- node.js + npm or yarn
 
 
 `npm init`
