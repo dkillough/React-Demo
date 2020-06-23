@@ -2,6 +2,9 @@
 
 ## Dependencies
 
+node.js + npm or yarn
+
+
 `npm init`
 
 `npm install react react-dom`
@@ -13,6 +16,6 @@ if ya want:
 
 `npm install -D eslint eslint-config-prettier`
 
-run w `npm run dev` or `yarn dev`
+### run w `npm run dev` or `yarn dev`
 
-find @ `localhost:1234`
+### find @ `localhost:1234`
