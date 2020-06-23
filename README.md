@@ -13,20 +13,6 @@ if ya want:
 
 `npm install -D eslint eslint-config-prettier`
 
-
-.gitignore includes
-
-```
-node_modules
-.cache/
-dist/
-.env
-.DS_Store
-coverage/
-.vscode/
-```
-
-
 run w `npm run dev` or `yarn dev`
 
 find @ `localhost:1234`
