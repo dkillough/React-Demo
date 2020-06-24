@@ -29,5 +29,6 @@ PET_MOCK=mock
 ### run w `npm run dev` or `yarn dev`
 
 ### find @ `localhost:1234`
+### individual results available (soon :tm:) @ /details/:id. Now just outputs the idnum itself on a given page.
 
 ( not for production :) )
