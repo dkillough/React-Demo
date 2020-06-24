@@ -31,5 +31,3 @@ PET_MOCK=mock
 ### individual results available (soon :tm:) @ /details/:id. Now just outputs the idnum itself on a given page.
 
 ( not for production :) )
-
-test commit 3
