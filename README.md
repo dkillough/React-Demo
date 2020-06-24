@@ -18,6 +18,16 @@ if ya want:
 
 `npm install -D eslint eslint-config-prettier`
 
+## .env
+
+Create .env file with:
+
+```
+PET_MOCK=mock
+```
+
 ### run w `npm run dev` or `yarn dev`
 
 ### find @ `localhost:1234`
+
+( not for production :) )
