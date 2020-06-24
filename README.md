@@ -1,5 +1,7 @@
 # React-Demo
 
+Adopt pet thing from [here](https://btholt.github.io/complete-intro-to-react-v5/)
+
 ## Dependencies
 
 - node.js + npm or yarn
